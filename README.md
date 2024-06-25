@@ -47,6 +47,4 @@ The model is trained using the Adam optimizer and categorical cross-entropy loss
 
 The model's performance is evaluated using the accuracy and loss metrics on both the training and validation sets. The final accuracy and loss values are printed to the console
 
-### contributions
-Contributions to this project are welcome. Please submit pull requests or issues to improve the model's performance or add new features.
 
